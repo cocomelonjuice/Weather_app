@@ -3,6 +3,7 @@
 - hiển hị nhiệt độ
 - hiển thị độ ẩm
 - hiển thị tốc độ gió
+-     
 */
 
 const apiKey = "c590254b458193c2cb1b1bb2baf0255d";
